@@ -9,17 +9,17 @@ Gemaakt door:
 
 Basis: uitleg, spelen, afgaan en punten
 - [x] maak index.html, style.css en script.js met canvas
-- [ ] teken speler
-- [ ] beweeg speler
-- [ ] ... *(vul zelf aan)*
-- [ ] punten op scherm zetten
-- [ ] punten kunnen scoren
-- [ ] uitlegscherm
+- [ ] maken game home screen
+- [ ] maken van het pouze scherm
+- [ ] maken van pong
+- [ ] maken van snake
+- [ ] maken van chess
+- [ ] als ik nog tijd heb mind sweeper
 
 Uitbreiding: *bedenk iets, bijvoorbeeld meer tegenstanders*
-- [ ] *later uitwerken*
-- [ ] *later uitwerken*
-- [ ] *later uitwerken*
+- [ ] ai maken voor pog tegenstander
+- [ ] ai maken chess tegenstander
+- [ ] 2 speler chess
 
 Uitbreiding: *bedenk iets, bijvoorbeeld bewegende achtergrond*
 - [ ] *later uitwerken*
